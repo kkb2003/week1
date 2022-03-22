@@ -1,0 +1,46 @@
+body {
+    background-color: antiquewhite;
+}
+.top {
+    background-color: aqua;
+    color: cornflowerblue;
+    text-align: center;
+}
+.introduction {
+height: 460px;
+}
+mark {
+background-color: aquamarine;
+}
+.index mark {
+    background-color: cadetblue;
+}
+.index ol {
+    background-color: rgb(192, 212, 231);
+    width: 300px;
+}
+.index li {
+    background-color: rgb(212, 149, 243);
+    margin-bottom: 10px;
+}
+.indexk li:hover{
+    background-color: black;
+    color:white;
+}
+.index a:hover{
+    color:white;
+}
+.metor table{
+    border:3px solid blue; /*굵기 선종류 색상*/
+}
+.mentor table td {
+    height: 50px;
+    width: 100px;
+    border: 3px dotted green;
+    background-color: pink;
+    text-align: center;
+}
+.school img{
+    width: auto;
+    height: 250px;
+}
