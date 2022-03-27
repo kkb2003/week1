@@ -45,8 +45,29 @@ background-color: aquamarine;
     text-align: center;
 }
 /*동아리 팀원*/
-
+.group {
+    border: 3px slateblue;
+    border-collapse: collapse;
+}
+.group td {
+    height: 50px;
+    width: 100px;
+    text-align: center;
+}
+tr:nth-child(odd){
+    background-color: rgb(243, 126, 190);
+}
 /*링크 이동*/
+a:link{
+    text-decoration: none;
+}
+.hyperlink li:hover{
+    background-color: blueviolet;
+}
+.hyperlink a:hover{
+    color: aliceblue;
+    text-decoration: underline;
+}
 
 /*소사캠퍼스*/
 .school img{
