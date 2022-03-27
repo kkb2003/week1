@@ -1,17 +1,20 @@
 body {
     background-color: antiquewhite;
 }
+/*제목*/
 .top {
     background-color: aqua;
     color: cornflowerblue;
     text-align: center;
 }
+/*소개 글*/
 .introduction {
 height: 460px;
 }
 mark {
 background-color: aquamarine;
 }
+/*목차*/
 .index mark {
     background-color: cadetblue;
 }
@@ -30,6 +33,7 @@ background-color: aquamarine;
 .index a:hover{
     color:white;
 }
+/*동아리 운영진*/
 .metor table{
     border:3px solid blue; /*굵기 선종류 색상*/
 }
@@ -40,6 +44,11 @@ background-color: aquamarine;
     background-color: pink;
     text-align: center;
 }
+/*동아리 팀원*/
+
+/*링크 이동*/
+
+/*소사캠퍼스*/
 .school img{
     width: auto;
     height: 250px;
